@@ -1,5 +1,5 @@
 <?php
-namespace Test;
+namespace test;
 
 class Test{
     
