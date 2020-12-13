@@ -5,6 +5,6 @@ class Test{
     
     function test()
     {
-        echo "this is a package test";
+        echo "this is a package test\n";
     }
 }
