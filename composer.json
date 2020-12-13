@@ -1,0 +1,12 @@
+{
+    "name": "double-ninth/comppose_pack",
+    "description": "this is a compose test",
+    "type": "library",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+          "psr-4": {
+              "Test\\" : "src/test"
+          }
+      }
+}
